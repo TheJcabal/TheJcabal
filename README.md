@@ -29,11 +29,11 @@ Estudiante de Ingeniería de Sistemas | Python en progreso
 ## 📊 Estadísticas
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=TheJcabal&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theJcabal&theme=tokyonight" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Estudiante de Ingeniería de Sistemas | Python en progreso
 ## 📈 Lenguajes más usados
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJcabal&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -59,7 +59,6 @@ Estudiante de Ingeniería de Sistemas | Python en progreso
 - Python básico → intermedio
 - Git y GitHub
 - Construcción de proyectos
-- Disciplina y aprendizaje continuo
 
 ---
 
