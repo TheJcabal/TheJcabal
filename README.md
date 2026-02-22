@@ -15,7 +15,6 @@ Estudiante de Ingeniería de Sistemas | Python en progreso
 - 🎓 Ingeniería de Sistemas
 - 💻 Aprendiendo Python
 - 📚 Enfocado en Backend y Automatización
-- 🎯 Objetivo: Construir experiencia real y ser empleable
 
 ---
 
